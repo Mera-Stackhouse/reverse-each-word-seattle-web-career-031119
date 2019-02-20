@@ -4,3 +4,7 @@ def reverse_each_word(string)
     puts x.reverse  
   }
 end
+
+string = "Hello mera"
+
+reverse_each_word(string)
