@@ -7,6 +7,6 @@ def reverse_each_word(string)
   new_array.join(" ")
 end
 
-string = "Hello, mera"
+# string = "Hello, mera"
 
-puts reverse_each_word(string)
+# puts reverse_each_word(string)
